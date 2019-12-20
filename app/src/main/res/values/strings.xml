@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="left_button_text">Roll Left</string>
+    <string name="right_button_text">Roll Right</string>
+</resources>
